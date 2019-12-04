@@ -1,10 +1,6 @@
 
 <?php
-/*
->From http://www.html-form-guide.com 
-This is the simplest emailer one can have in PHP.
-If this does not work, then the PHP email configuration is bad!
-*/
+error_reporting(0);
 
 $msg= $_POST['submit'];
 echo "Thank you for submitting your lesson plan. Please print this file or save as a PDF for your records.";  
@@ -27,9 +23,9 @@ if(isset($_POST['submit'])){
 
 	$from_add = "lessonplan@bmslessonplan.x10host.com"; 
 
-	$to_add = "lessonplanbms@gmail.com";
+	$to_add = "prayerwm11@gmail.com";
        
-	$subject = "SCS Lesson Plan";
+	$subject = "Drexel Lesson Plan";
 
 
         
@@ -344,7 +340,7 @@ echo "<TABLE width:100%; border=5px; cellpadding= 10px;>
 <tr >
 <td ></td>
 <td></td>
-<td><strong>SCS Lesson Plan</strong> </td>
+<td><strong>Drexel Lesson Plan</strong> </td>
 <td><strong>2019-2020</strong> </td>
 <td></td>
 <td></td>
