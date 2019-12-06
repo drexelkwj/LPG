@@ -14,3 +14,7 @@ On the website homepage, click the link labled 'Lesson Plan Bank.' User must hav
 
 
 
+Access to Screen Recorded Video:
+https://www.dropbox.com/s/vi0pl2zjyfcbu9d/LPG_Final_Project.mov?dl=0
+
+
